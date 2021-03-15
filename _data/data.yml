@@ -118,11 +118,17 @@ skills:
     title: Skills
 
     toolset:
-      - name: Computer Skills
-        skill2: Python, C++
-        
-      - name: DL Frameworks
-        skill2: TensorFlow, Keras, pytorch
+      - name: Python
+        level: 90%
+
+      - name: C++
+        level: 60%
+
+      - name: Pytorch
+        level: 80%
+
+      - name: TensorFlow & Keras 
+        level: 80%
        
 
 
