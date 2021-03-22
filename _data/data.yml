@@ -94,7 +94,7 @@ projects:
       - title: The second prize of the 13th SRTP(Student Research Training Program) of Shandong University  
         
         tagline: "2018"
-      
+
 # publications:
    # title: Publications
    # intro: |
@@ -123,6 +123,15 @@ skills:
 
       - name: C++
         level: 60%
+      
+      - name: JAVA
+        level: 60%
+
+      - name: JavaScript
+        level: 60%
+
+      - name: Docker
+        level: 70%
 
       - name: Pytorch
         level: 80%
