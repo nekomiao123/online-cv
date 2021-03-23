@@ -65,23 +65,33 @@ experiences:
       company: Research Assistant           
       details: |
 
-          - Learned basic ideas of deep learning 
-          - Learned deep learning library such as tensorflow, keras
-          - Built the analysis model based on CNN
+          - Learned basic ideas of deep learning. 
+          - Learned deep learning library such as tensorflow, keras.
+          - Built the analysis model based on CNN.
 
-    - role: Pedestrian fall recognition based on deep learning
+    - role: Video Encryption Technology under AI Background
+      time: 06.2019 - 03.2020
+      company: TEAM LEADER        
+      details: |
+
+          - Learned about object detection and video encryption. 
+          - Focused on encrypting face data in a video.
+          - Built an video encryption model based on the YOLO model.
+
+    - role: Pedestrian Fall Recognition Based on Deep Learning
       time: 10.2020 - present
       company: Team Leader(My own project)
       details: |
 
-          - Built a basic model based on slowfast model
+          - Focused on using the SlowFast networks to do the fall detection.
+          - Built a basic model based on the SlowFast model.
 
 projects:
     title: Awards
     intro: 
     assignments:
       - title: Second Scholarship of Shandong University
-        tagline: "2018"
+        tagline: "2020"
 
       - title: Second Scholarship of Shandong University
         
@@ -89,7 +99,7 @@ projects:
 
       - title: Second Scholarship of Shandong University
         
-        tagline: "2020"
+        tagline: "2018"
 
       - title: The second prize of the 13th SRTP(Student Research Training Program) of Shandong University  
         
@@ -129,9 +139,6 @@ skills:
 
       - name: JavaScript
         level: 60%
-
-      - name: Docker
-        level: 70%
 
       - name: Pytorch
         level: 80%
