@@ -80,7 +80,7 @@ experiences:
 
     - role: Pedestrian Fall Recognition Based on Deep Learning
       time: 10.2020 - present
-      company: My own project
+      company: My Own Project
       details: |
 
           - Focused on using the SlowFast networks to do the fall detection.
