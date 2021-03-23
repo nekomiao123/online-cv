@@ -71,7 +71,7 @@ experiences:
 
     - role: Video Encryption Technology under AI Background
       time: 06.2019 - 03.2020
-      company: TEAM LEADER        
+      company: Team Leader        
       details: |
 
           - Learned about object detection and video encryption. 
@@ -80,7 +80,7 @@ experiences:
 
     - role: Pedestrian Fall Recognition Based on Deep Learning
       time: 10.2020 - present
-      company: Team Leader(My own project)
+      company: My own project
       details: |
 
           - Focused on using the SlowFast networks to do the fall detection.
