@@ -60,14 +60,13 @@ education:
 
 
 experiences:
-    - role: Image Recognition of Lung Tumor Based on Deep Learning 
-      time: 04.2018 - 09.2018
-      company: Research Assistant           
+     - role: Pedestrian Fall Recognition Based on Deep Learning
+      time: 10.2020 - present
+      company: My Own Project
       details: |
 
-          - Learned basic ideas of deep learning. 
-          - Learned deep learning library such as tensorflow, keras.
-          - Built the analysis model based on CNN.
+          - Used the SlowFast networks to do fall detection.
+          - Built a basic fall detection model.
 
     - role: Video Encryption Technology under AI Background
       time: 06.2019 - 03.2020
@@ -78,13 +77,14 @@ experiences:
           - Focused on encrypting face data in a video.
           - Built an video encryption model based on the YOLO model.
 
-    - role: Pedestrian Fall Recognition Based on Deep Learning
-      time: 10.2020 - present
-      company: My Own Project
+    - role: Image Recognition of Lung Tumor Based on Deep Learning 
+      time: 04.2018 - 09.2018
+      company: Research Assistant           
       details: |
 
-          - Focused on using the SlowFast networks to do the fall detection.
-          - Built a basic model based on the SlowFast model.
+          - Learned basic concepts of deep learning. 
+          - Studied deep learning library such as tensorflow and keras.
+          - Built the analysis model based on CNN.
 
 projects:
     title: Awards
