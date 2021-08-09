@@ -61,22 +61,30 @@ education:
 
 experiences:
 
+    - role: AdaptOR: Deep Generative Model Challenge for Domain Adaptation in Surgery
+      time: 4.2021 - 7.2021
+      company: Competition
+      details: |
+
+          - Proposed a new method combining CycleGAN and U-net to solve this problem.
+          - Wrote a paper which was accepted by MICCAI workshop.
+
     - role: Pedestrian Fall Recognition Based on Deep Learning
-      time: 10.2020 - present
+      time: 10.2020 - 4.2021
       company: My Own Project
       details: |
 
-          - Used the SlowFast networks to do fall detection.
-          - Built a basic fall detection model.
+          - Built the SlowFast networks to tackle this problem.
+          - Used Pseudo-Labeling method to deal with the insufficient labeled data.
 
-    - role: Video Encryption Technology under AI Background
-      time: 06.2019 - 03.2020
-      company: Team Leader        
-      details: |
+    # - role: Video Encryption Technology under AI Background
+    #   time: 06.2019 - 03.2020
+    #   company: Team Leader        
+    #   details: |
 
-          - Learned about object detection and video encryption. 
-          - Focused on encrypting face data in a video.
-          - Built an video encryption model based on the YOLO model.
+    #       - Learned about object detection and video encryption. 
+    #       - Focused on encrypting face data in a video.
+    #       - Built an video encryption model based on the YOLO model.
 
     - role: Image Recognition of Lung Tumor Based on Deep Learning 
       time: 04.2018 - 09.2018
@@ -106,23 +114,23 @@ projects:
         
         tagline: "2018"
 
-# publications:
-   # title: Publications
-   # intro: |
-     # You can list your publications in this section.
+publications:
+   title: Publications
+   intro: |
+    My publications.
 
-   # papers:
-     # - title: The Art of Computer Programming
-       # authors: Donald E. Knuth
-       # conference: Addison-Wesley, 1968
+   papers:
+     - title: Improved Heatmap-based Landmark Detection
+       authors: Huifeng Yao, Ziyu Guo, Yatao Zhang, Xiaomeng Li
+       conference: DGM4MICCAI Workshop, 2021
 
-     # - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-       # authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-       # conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    #  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+    #    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+    #    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-     # - title: A syntax directed compiler for Algol 60
-       # authors: Edgar T. Irons
-       # conference: "Comm. ACM 4 (1961), 51–55"
+    #  - title: A syntax directed compiler for Algol 60
+    #    authors: Edgar T. Irons
+    #    conference: "Comm. ACM 4 (1961), 51–55"
 
 
 skills:
