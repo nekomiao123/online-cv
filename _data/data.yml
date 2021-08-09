@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Huifeng Yao
-    tagline: A student of SDU
+    tagline:  
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -51,7 +51,6 @@ education:
       details: 
           GPA 3.7/4.0
        
-       
     - degree: University of California, Berkeley
       university: Summer Session
       time: 07.2019 - 08.2019
@@ -61,7 +60,7 @@ education:
 
 experiences:
 
-    - role: AdaptOR, Deep Generative Model Challenge for Domain Adaptation in Surgery
+    - role: Deep Generative Model Challenge for Domain Adaptation in Surgery
       time: 4.2021 - 7.2021
       company: Competition
       details: |
@@ -116,9 +115,8 @@ projects:
 
 publications:
    title: Publications
-   intro: |
-    My publications.
-
+  #  intro: |
+  #   My publications.
    papers:
      - title: Improved Heatmap-based Landmark Detection
        authors: Huifeng Yao, Ziyu Guo, Yatao Zhang, Xiaomeng Li
