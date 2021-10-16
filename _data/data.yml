@@ -66,7 +66,7 @@ experiences:
       details: |
 
           - Proposed a simple yet effective method for semi-supervised domain-generalized medical image segmentation.
-          - Designed two innovative modules. One is the Fourier-transform-based data argumentation; another is the confidence-aware cross pseudo supervision.
+          - Designed two innovative modules. One is the Fourier-transform-based data augmentation; another is the confidence-aware cross pseudo supervision.
           - Wrote a paper which was submitted to AAAI 2022 as the first author.
 
     - role: Deep Generative Model Challenge for Domain Adaptation in Surgery
@@ -74,7 +74,7 @@ experiences:
       company: Competition
       details: |
 
-          - Won the second price in the Adaptor Challenge.
+          - Won the second price in the this challenge.
           - Proposed a new method combining CycleGAN and U-net to solve this problem.
           - Designed a novel post-processing method called cutting and centre.
           - Wrote a paper which was accepted by MICCAI 2021 workshop as the first author.
