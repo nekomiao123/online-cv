@@ -126,8 +126,8 @@ projects:
 
 publications:
    title: Publications
-   intro: |
-    My Publications
+  #  intro: |
+  #   My Publications
    papers:
      - title: Improved Heatmap-based Landmark Detection(Published)
        authors: Huifeng Yao, Ziyu Guo, Yatao Zhang, Xiaomeng Li
