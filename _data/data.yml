@@ -27,10 +27,10 @@ sidebar:
 
     languages:
       - idiom: Chinese
-        level: Native
+        level: 
 
       - idiom: English
-        level: Medium
+        level: 
 
     interests:
       - item: photography
@@ -45,7 +45,7 @@ sidebar:
     #  Second paragraph if required.
 
 education:
-    - degree: Shandong University 
+    - degree: Shandong University, Weihai 
       university: Bachelor of Engineering, Digital Media Technology
       time: 09.2017 - 06.2021
       details: 
@@ -60,16 +60,27 @@ education:
 
 experiences:
 
+    - role: Semi-supervised Domain Generalization for Medical Images
+      time: 6.2021 - 9.2021
+      company: Research Assistant
+      details: |
+
+          - Proposed a simple yet effective method for semi-supervised domain-generalized medical image segmentation.
+          - Designed two innovative modules. One is the Fourier-transform-based data argumentation; another is the confidence-aware cross pseudo supervision.
+          - Wrote a paper which was submitted to AAAI 2022 as the first author.
+
     - role: Deep Generative Model Challenge for Domain Adaptation in Surgery
-      time: 4.2021 - 7.2021
+      time: 3.2021 - 6.2021
       company: Competition
       details: |
 
+          - Won the second price in the Adaptor Challenge.
           - Proposed a new method combining CycleGAN and U-net to solve this problem.
-          - Wrote a paper which was accepted by MICCAI workshop.
+          - Designed a novel post-processing method called cutting and centre.
+          - Wrote a paper which was accepted by MICCAI 2021 workshop as the first author.
 
     - role: Pedestrian Fall Recognition Based on Deep Learning
-      time: 10.2020 - 4.2021
+      time: 10.2020 - 3.2021
       company: My Own Project
       details: |
 
@@ -89,7 +100,7 @@ experiences:
       time: 04.2018 - 09.2018
       company: Research Assistant           
       details: |
-
+          - Won the second prize of the 13th SRTP(Student Research Training Program) of Shandong University.
           - Learned basic concepts of deep learning. 
           - Studied deep learning library such as tensorflow and keras.
           - Built the analysis model based on CNN.
@@ -115,12 +126,12 @@ projects:
 
 publications:
    title: Publications
-  #  intro: |
-  #   My publications.
+   intro: |
+    Published
    papers:
      - title: Improved Heatmap-based Landmark Detection
        authors: Huifeng Yao, Ziyu Guo, Yatao Zhang, Xiaomeng Li
-       conference: DGM4MICCAI Workshop, 2021
+       conference: Deep Generative Models, and Data Augmentation, Labelling, and Imperfections(MICCAI workshop), 2021.
 
     #  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
     #    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
