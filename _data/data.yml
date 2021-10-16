@@ -57,6 +57,17 @@ education:
       details:
            GPA 4.0/4.0
 
+publications:
+   title: Publications
+  #  intro: |
+  #   My Publications
+   papers:
+     - title: Improved Heatmap-based Landmark Detection(Published)
+       authors: Huifeng Yao, Ziyu Guo, Yatao Zhang, Xiaomeng Li
+       conference: Deep Generative Models, and Data Augmentation, Labelling, and Imperfections(MICCAI workshop), 2021.
+     - title: Enhancing Pseudo Label Quality for Semi-Supervised Domain-Generalized Medical Image Segmentation(In review)
+       authors: Huifeng Yao, Xiaowei Hu, Xiaomeng Li
+       conference: Association for the Advancement of Artificial Intelligence(AAAI), 2022.
 
 experiences:
 
@@ -124,24 +135,7 @@ projects:
         
         tagline: "2018"
 
-publications:
-   title: Publications
-  #  intro: |
-  #   My Publications
-   papers:
-     - title: Improved Heatmap-based Landmark Detection(Published)
-       authors: Huifeng Yao, Ziyu Guo, Yatao Zhang, Xiaomeng Li
-       conference: Deep Generative Models, and Data Augmentation, Labelling, and Imperfections(MICCAI workshop), 2021.
-     - title: Enhancing Pseudo Label Quality for Semi-Supervised Domain-Generalized Medical Image Segmentation(In review)
-       authors: Huifeng Yao, Xiaowei Hu, Xiaomeng Li
-       conference: Association for the Advancement of Artificial Intelligence(AAAI), 2022.
-    #  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    #    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    #    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-    #  - title: A syntax directed compiler for Algol 60
-    #    authors: Edgar T. Irons
-    #    conference: "Comm. ACM 4 (1961), 51–55"
 
 
 skills:
