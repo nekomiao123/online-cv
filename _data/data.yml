@@ -126,16 +126,14 @@ projects:
 
 publications:
    title: Publications
-   intro: |
-    Published
+  #  intro: |
+  #   Published
    papers:
-     - title: Improved Heatmap-based Landmark Detection
+     - title: Improved Heatmap-based Landmark Detection(Published)
        authors: Huifeng Yao, Ziyu Guo, Yatao Zhang, Xiaomeng Li
        conference: Deep Generative Models, and Data Augmentation, Labelling, and Imperfections(MICCAI workshop), 2021.
-   intro: |
-    In review
    papers:
-     - title: Enhancing Pseudo Label Quality for Semi-Supervised Domain-Generalized Medical Image Segmentation
+     - title: Enhancing Pseudo Label Quality for Semi-Supervised Domain-Generalized Medical Image Segmentation(In review)
        authors: Huifeng Yao, Xiaowei Hu, Xiaomeng Li
        conference: Association for the Advancement of Artificial Intelligence(AAAI), 2022.
     #  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
