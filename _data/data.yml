@@ -45,6 +45,12 @@ sidebar:
     #  Second paragraph if required.
 
 education:
+    - degree: The Hong Kong University of Science and Technology
+      university: Doctor of Philosophy (PhD) in Electronic and Computer Engineering
+      time: 02.2022 - now
+      details: 
+        medical image analysis
+        
     - degree: Shandong University, Weihai 
       university: Bachelor of Engineering, Digital Media Technology
       time: 09.2017 - 06.2021
@@ -65,7 +71,7 @@ publications:
      - title: Improved Heatmap-based Landmark Detection(Published)
        authors: Huifeng Yao, Ziyu Guo, Yatao Zhang, Xiaomeng Li
        conference: Deep Generative Models, and Data Augmentation, Labelling, and Imperfections(MICCAI workshop), 2021.
-     - title: Enhancing Pseudo Label Quality for Semi-Supervised Domain-Generalized Medical Image Segmentation(In review)
+     - title: Enhancing Pseudo Label Quality for Semi-Supervised Domain-Generalized Medical Image Segmentation(Published)
        authors: Huifeng Yao, Xiaowei Hu, Xiaomeng Li
        conference: Association for the Advancement of Artificial Intelligence(AAAI), 2022.
 
